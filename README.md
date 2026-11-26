@@ -1,2 +1,1 @@
-hello git
-my second line
+Hello Git
